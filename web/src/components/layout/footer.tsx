@@ -6,7 +6,7 @@ export function Footer() {
           ImageTrust &mdash; AI-Generated Image Forensic Detection System
         </p>
         <p className="text-xs text-muted-foreground text-center md:text-right">
-          Master&apos;s Thesis Research &middot; 2025
+          Master&apos;s Thesis Research &middot; 2026
         </p>
       </div>
     </footer>
